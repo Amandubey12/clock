@@ -1,0 +1,58 @@
+*{
+   padding: 0;
+   margin: 0;
+}
+body{
+    background-color: rgb(140, 133, 133);
+}
+.container{
+    background-color: rgb(84, 84, 87); 
+    width: 500px;
+    height: 500px;
+     border-radius: 200px;
+      margin-top: 50px;
+       position: relative; 
+       z-index: -5;
+        box-shadow:rgb(190, 165, 165)  5px 5px;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    margin: 50px;
+     z-index: 10 ;
+     padding-left: 60px;
+      padding-top: 40px;
+}
+.hey{
+    /* text-align: center; */
+    /* margin: 50px; */
+    margin-top: 40px;
+    margin-left: 75px;
+
+}
+.conter{
+    background-color:rgb(219, 217, 217) ;
+     width: 300px;
+     height: 200px;
+      position: absolute; 
+       margin-top: 150px; 
+       margin-left: 90px; 
+}
+button{
+    border: 2px solid black; 
+     margin-top: 400px;
+     padding-left: 10px; 
+     position: absolute;
+      margin-left: 120px;
+      box-shadow: 2px 2px 2px rgb(212, 208, 208);
+      width: 250px;
+}
+p{
+    text-align:center;
+    padding-top: 10px; 
+}
+/* #time{
+   margin-left: 100px;
+   margin-top: 200px;
+} */
+
